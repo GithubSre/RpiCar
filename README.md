@@ -1,5 +1,5 @@
 Hello I am Sreeniketh Cheruvu,
-you can call me Srinix this is my first raspberry pi robot.
+this is my first raspberry pi robot.
 
 Components used:
   raspberry pi 4 model B(8GB RAM),
