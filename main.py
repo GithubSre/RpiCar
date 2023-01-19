@@ -16,6 +16,14 @@ def main():
         motor.move(0.3, -0.3, 1)
     elif kb.getKey('RIGHT'):
         motor.move(0.3, 0.3, 1)
+         if kb.getKey('w'):
+        motor.move(0.6, 0, 1)
+    elif kb.getKey('s'):
+        motor.move(-0.6, 0, 1)
+    elif kb.getKey('a'):
+        motor.move(0.3, -0.3, 1)
+    elif kb.getKey('d'):
+        motor.move(0.3, 0.3, 1)
     else:
         motor.stop()
 
