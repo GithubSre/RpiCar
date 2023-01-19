@@ -1,6 +1,3 @@
-NOTE: I am a beginner and I am still learning.
-I didn't write the entire code, but I can understand the code roughly and I made a tweaked version of the code written by Murtaza Hassan.
-
 Hello I am Sreeniketh Cheruvu,
 you can call me Srinix this is my first raspberry pi robot.
 
