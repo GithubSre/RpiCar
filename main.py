@@ -24,7 +24,7 @@ def main():
         motor.move(0.3, -0.3, 1)
     elif kb.getKey('d'):
         motor.move(0.3, 0.3, 1)
-    elif kb.getKey('SPACE'):
+    else:
         motor.stop()
 
 if __name__ == '__main__':
