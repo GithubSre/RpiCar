@@ -9,7 +9,7 @@ Components used:
 
 Steps to make this car:
   Step 1:
-    Download the code in your raspberry pi(make sure they all are in the same folder) and install RPi.GPIO, pygame and time using " $ pip install RPi.GPIO pygame time ".
+    Download the code in your raspberry pi(make sure all the files are in the same directory), install RPi.GPIO, pygame and time using " $ pip install RPi.GPIO pygame time ".
   Step 2:
     Assmeble the case and the components.
   Step 3:
